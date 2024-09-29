@@ -1704,7 +1704,7 @@ input, select, textarea {
 
 /* Image */
 
-	.image {
+	/* .image {
 		display: inline-block;
 		outline: 0;
 	}
@@ -1733,7 +1733,7 @@ input, select, textarea {
 		.image.left {
 			float: left;
 			margin: 0 2em 2em 0;
-		}
+		} */
 
 /* List */
 
@@ -2360,7 +2360,7 @@ input, select, textarea {
 
 	#main {
 		position: relative;
-		background: #f7f7f7 url("images/bg02.png");
+		background: #f7f7f7 ;
 		padding: 4em 0 4em 0;
 	}
 
@@ -2370,14 +2370,14 @@ input, select, textarea {
 			top: 0;
 			left: 0;
 			width: 100%;
-			background: url("images/bg01.png");
+			/* background: url("images/bg01.png"); */
 			background-size: 100% 100%;
 			z-index: 0;
 			opacity: 0.1;
 		}
 
 		#main .major h2 {
-			background: #f7f7f7 url("images/bg02.png");
+			background: #f7f7f7;
 		}
 
 /* Copyright */
